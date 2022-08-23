@@ -6,4 +6,3 @@ Documentation done in JavaDocs
 App based on restaurant ordering system.
 Includes functions to add/delete items from order, calculate monthly revenue, calculate monthly sales per item, reservation seating, etc...
 
-Personally worked on Order related classes and functions not including menu and fooditem related classes.
